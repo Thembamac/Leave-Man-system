@@ -8,7 +8,7 @@ Steps to this project
 
 5. Create a database with the name  elmsdb
 
-6. Import elmsdb.sql file(given inside the zip package in SQL file folder)
+6. Import elmsdb.sql file(given inside the folder in SQL file folder)
 
 7. Run the script http://localhost/elms
 
