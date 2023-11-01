@@ -1,8 +1,6 @@
-How to run the employee Leave Management using PHP and MySQL
+Steps to this project
 
-1. Download the project zip file
-
-2. Extract the file and copy elms folder
+2. Copy elms folder
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
 
